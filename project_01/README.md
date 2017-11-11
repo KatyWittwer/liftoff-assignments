@@ -1,24 +1,25 @@
 # Capstone Project Plan
 
 ## Overview
-My project will be a website/forum that will allow users to create a profile; edit and display their lego collections; create, edit, and display their unique Lego creations(MOCs); and view the collections and MOCs of other users.
+My project will be a website that will allow track board meeting attendance; allow users to create an individual login; view the user who entered the meeting records; run a variety of reports on attendance rates; view year-to-date board attendance percentages displayed at the top of the page.  This idea came from a non-profit board retreat during which it was determined that attendance needed to be tracked in a more efficient and transparent manner. Currently it’s tracked only on paper and manually calculated throughout the year so this application will reduce increase efficiency. The organization’s goal is to achieve 75% or higher and currently board officers do not have ongoing access to real-time performance information.  Having the information on hand will allow for heightened visibility when attendance falls below 75%, with the intention of improving attendance levels.
 
 ## Features
-1. User signup/login
-1. Recent MOCs - main page of site will display MOCs posted recently, accompanied by the username that posted it, the theme of the MOC, and the time/date of posting
-1. Search - users will be able to search within their collection as well as search the MOCs by theme
-1. Create MOC - Users will be able to add/edit a MOC when logged in
-1. Add to Collection - Users will be able to add/edit collection items when logged in
+1. User signup/login 
+1. Create meeting - Main page will have an HTML form to create meeting and enter meeting attendance information
+1. Add/edit - Users will be able to add/edit meeting attendance details when logged in
+1. Search - User will be able to search past board meeting attendance records
+1. View - Users will be able to view historical meeting records
+1. Reporting - Users will be able to run attendance reports
 
 ## Technologies
 * Java
 * MAMP
 * MySQL
-* Rebrickable API
 * JavaScript
 * HTML/CSS/Bootstrap
+* Hibernate
 * Spring
 * Thymeleaf
 
 ## What I'll Have to Learn
-I will have to improve on my knowledge of utilizing the Rebrickable API, as well as getting a better grasp on bootstrap and continuing my JavaScript education
+I will have to improve on my knowledge of utilizing user logins, mapping data using Hibernate, as well as continuing my JavaScript and SQL education.
