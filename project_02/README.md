@@ -1,9 +1,9 @@
 # Project Planning
 
 ## Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Login screen](https://user-images.githubusercontent.com/26393419/32913563-5671f07e-cad8-11e7-87af-0e55f4513e13.jpg)
+* [Attendance Log](https://user-images.githubusercontent.com/26393419/32913581-5d47cb3a-cad8-11e7-9e3d-ed770e8c78cb.jpg)
+* [Report Center](https://user-images.githubusercontent.com/26393419/32913594-64a6f6f8-cad8-11e7-8560-d6540dac0478.jpg)
 
 ## Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2129196
